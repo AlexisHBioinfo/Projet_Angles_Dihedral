@@ -18,4 +18,18 @@ A faire !
 
 * Renvoyer les résultats (visuellement ou création d'un fichier ? )
 
+* Faire la fusion des scripts
+
 * Faire la présentation : https://fr.overleaf.com/7496384476stmwpckmcqcv
+
+## **Partie calcul**
+
+En cours :
+
+* Calcul du vecteur des plans
+
+A faire :
+
+* Calcul produit vectoriel
+
+* calcul des angles dihedrals
