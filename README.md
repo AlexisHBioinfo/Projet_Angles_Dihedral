@@ -24,11 +24,9 @@ A faire !
 
 ## **Partie calcul**
 
-En cours :
+FAIT :
 
 * Calcul du vecteur des plans
-
-A faire :
 
 * Calcul produit vectoriel
 
